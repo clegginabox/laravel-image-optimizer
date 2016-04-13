@@ -1,5 +1,5 @@
 {
-  "name": "approached/laravel-image-optimizer",
+  "name": "clegginabox/laravel-image-optimizer",
   "description": "Image optimizer for laravel",
   "type": "library",
   "license": "MIT",
