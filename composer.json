@@ -17,9 +17,15 @@
       "role": "Developer"
     }
   ],
+    "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/clegginabox/image-optimizer"
+      }
+  ],
   "require": {
     "laravel/framework": "~5.0",
-    "ps/image-optimizer": "~1.0"
+    "clegginabox/image-optimizer": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0"
